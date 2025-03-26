@@ -2295,7 +2295,7 @@ end)
 
 
 
---[[minesweeper
+
 
 local function createMinesweeper(gridSize, numMines)
     -- Setup
@@ -2585,7 +2585,7 @@ end
 -- Initialize the game in your custom UI's "tabs" frame
 createMinesweeper(8, 10, tabs)
 
-]]
+
 
 
 -- 
